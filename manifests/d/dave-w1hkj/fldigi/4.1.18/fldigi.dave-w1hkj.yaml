@@ -1,0 +1,12 @@
+PackageIdentifier: fldigi.dave-w1hkj
+PackageName: fldigi
+PackageVersion: 4.1.18
+Publisher: dave-w1hkj
+License: gpl3
+LicenseUrl: https://www.gnu.org/licenses/gpl-3.0.en.html
+PackageUrl: ''
+ShortDescription: 'Fldigi is a modem program for most of the digital modes used by radio amateurs today: CW, PSK, MFSK, RTTY, Hell, DominoEX, Olivia, and Throb are all supported. It can help calibrate a sound card to a time signal and do frequency measurement tests.'
+ManifestType: singleton
+ManifestVersion: 1.0.0
+PackageLocale: en-US
+Installers: []
